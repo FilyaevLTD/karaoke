@@ -1,0 +1,11 @@
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Release\Ushuaia Karaoke 1.exe.config
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Release\Ushuaia Karaoke 1.exe
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Release\Ushuaia Karaoke 1.pdb
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Release\Ushuaia_Karaoke_1.Form1.resources
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Release\Ushuaia_Karaoke_1.Properties.Resources.resources
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Release\Ushuaia Karaoke 1.csproj.GenerateResource.Cache
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Release\Ushuaia Karaoke 1.exe
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Release\Ushuaia Karaoke 1.pdb
+D:\Ushuaia project\Developer ver2\Ushuaia Karaoke 1 ver2 last\Ushuaia Karaoke 1\bin\Release\Ushuaia Karaoke 1.exe.config
+D:\Ushuaia project\Developer ver2\Ushuaia Karaoke 1 ver2 last\Ushuaia Karaoke 1\obj\Release\Ushuaia Karaoke 1.exe
+D:\Ushuaia project\Developer ver2\Ushuaia Karaoke 1 ver2 last\Ushuaia Karaoke 1\obj\Release\Ushuaia Karaoke 1.pdb

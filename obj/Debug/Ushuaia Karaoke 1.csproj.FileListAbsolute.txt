@@ -1,0 +1,9 @@
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Debug\Ushuaia Karaoke 1.exe.config
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Debug\Ushuaia Karaoke 1.exe
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\bin\Debug\Ushuaia Karaoke 1.pdb
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia_Karaoke_1.Form1.resources
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia_Karaoke_1.Properties.Resources.resources
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia Karaoke 1.csproj.GenerateResource.Cache
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia Karaoke 1.exe
+c:\users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia Karaoke 1.pdb
+C:\Users\л\documents\visual studio 2012\Projects\Ushuaia Karaoke 1\Ushuaia Karaoke 1\obj\Debug\Ushuaia Karaoke 1.csprojResolveAssemblyReference.cache
